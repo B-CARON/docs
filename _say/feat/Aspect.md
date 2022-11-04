@@ -20,55 +20,62 @@ udver: '2'
 </tr>
 </table>
 
-In Zaar, aspect is an inflexionnal feature ...
-
+In Zaar, aspect is an inflexionnal feature carried by the AUX. Two exceptions are the Inchoative (Inch) and the Resultative (Res) which are associated with the VERB.
 ### <a name="Aor">`Aor`</a>: aorist
 
-Beja: The aorist expresses semantic values of habituality, repetition, general truth and anteriority. It can also be also used in backgrounded contexts, and for the expression of a wish. It is not time referenced.
+Zaar: The aorist is the default verbal inflexion found in narrations, and in backgrounded contexts. It is not time referenced, and is associated with habitual contexts.
 
 #### Example
 
 - _kóː <b>kə</b> yé wuriː ?//_ "Or how do you see it?"
 
-### <a name="Conc">`Conc`</a>: TODO
+### <a name="Conc">`Conc`</a>: concomitant
 
-Beja: The imperfective marks an unbounded process or state, seen from the point of view of its unfolding and not as a bounded or completed event. It can be used in any temporal context, past, present or future.
+Zaar: In a narration, the concomitant aspect marks a process as a temporal frame for another process: 'when...', 'as soon as... '. The temporal context is given by the second process. 
 
 #### Example
 
-TODO
+- _<b>myáːnaː</b> tul gìp kìmsə́ < káwây màːʃîn < fi mə́kə́p //_ "We had just entered Kimsə when the motorcycle stopped."
 
 ### <a name="Inch">`Inch`</a>: inchoative
 
-TODO
+Zaar:  The inchoative indicates the beginning of a bounded process, or a change of state. It is expressed by the verbal particle <b>ni</b> (tagged with the relation compound:prt). 
 
 #### Example
 
-TODO
+- _əndá mə̀ mbǔt <b>ni</b> mə̀ ndà kúʧi //_ "then we lie down and sleep." 
 
-### <a name="Imp">`Imp`</a>: imperfective
+ NB: the verb _mbut_ alone means "to lie".
 
-Beja: The imperfective marks an unbounded process or state, seen from the point of view of its unfolding and not as a bounded or completed event. It can be used in any temporal context, past, present or future.
-
-#### Example
-
-TODO
-
-### <a name="ImpIter">`ImpIter`</a>: TODO
-
-TODO
+The combination of the verbs _fi_ "do" and _yi_ "be", with the particle _ni_ is often lexicalized to produce the verbs _fin_ "start doing" and _yin_ "become".
 
 #### Example
 
-TODO
+- _myàːyi ɗu bôːl < átâ <b>yin</b> góːla =wòpə̌n ǎn ?//_ "When we played football, didn't he become our goal keeper?"
+
+### <a name="Imp">`Imp`</a>: imperfect
+
+Zaar: The imperfect marks an unbounded process or state, seen from the point of view of its unfolding and not as a bounded or completed event. It can be used in any temporal context, past, present or future.
+
+#### Example
+
+- _<b>ʧáː</b> pol =əm á Kámʃâk fáː !//_ "I like Kamshak I do!"
+
+### <a name="ImpIter">`ImpIter`</a>: imperfect iterative
+
+Zaar: The Imperfect Iterative is the combination of the two aspects in one AUX. Only two occurrences are present in the corpus. 
+
+#### Example
+
+- _<b>myàːyi</b> ɗu bôːl < átâ yin góːla =wòpə̌n ǎn ?//_ "When we played football, didn't he become our goal keeper?"
 
 ### <a name="Iter">`Iter`</a>: iterative
 
-TODO
+Zaar: The iterative aspect marks the repetition of a process without any temporal reference. It is often used with a habitual meaning. 
 
 #### Example
 
-TODO
+- _əndá yi ɓan zoːlé =tə //_ "Then he kept teasing him."
 
 ### <a name="Perf">`Perf`</a>: perfect
 
