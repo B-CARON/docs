@@ -20,7 +20,7 @@ udver: '2'
 </tr>
 </table>
 
-In Zaar, aspect is an inflexionnal feature ...
+In Zaar, aspect is an inflexional feature mainly carried by the preverbal AUX which conflates aspect, tense and mood features. 
 
 ### <a name="Aor">`Aor`</a>: aorist
 
